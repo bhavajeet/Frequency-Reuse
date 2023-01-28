@@ -13,7 +13,7 @@ Frequency Reuse is the scheme in which allocation and reuse of channels througho
 <code>
 Cell with the same letter uses the same set of channels group or frequencies sub-band.
 To find the total number of channel allocated to a cell:
-
+ 
 S = Total number of duplex channels available to use
 k = Channels allocated to each cell (k<S)
 N = Total number of cells or Cluster Size
@@ -40,3 +40,6 @@ Where,
 R = Radius of a cell
 N = Number of cells in a given cluster
 </code>
+ output:
+![image](https://user-images.githubusercontent.com/79093527/215268095-f1674f4e-7f67-4d38-8211-505e356a6265.png)
+![image](https://user-images.githubusercontent.com/79093527/215268123-eb78c41e-6dd2-4b23-a5b2-63996ffcb693.png)
