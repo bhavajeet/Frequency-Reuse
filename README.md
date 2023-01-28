@@ -5,8 +5,12 @@ the Python code for visualizing the Frequency Reuse concept
 <article>
 Frequency Reuse is the scheme in which allocation and reuse of channels throughout a coverage region is done. Each cellular base station is allocated a group of radio channels or Frequency sub-bands to be used within a small geographic area known as a cell. The shape of the cell is Hexagonal. The process of selecting and allocating the frequency sub-bands for all of the cellular base station within a system is called Frequency reuse or Frequency Planning.
 </article>
-![image](https://user-images.githubusercontent.com/79093527/215267821-88b3339b-320b-45b4-949f-af166a3af554.png)
-<article>
+
+
+![image](https://user-images.githubusercontent.com/79093527/215267895-8b674082-7dfd-4541-9c56-a7890e0d51f7.png)
+
+
+<code>
 Cell with the same letter uses the same set of channels group or frequencies sub-band.
 To find the total number of channel allocated to a cell:
 
@@ -35,4 +39,4 @@ In Frequency reuse there are several cells that use the same set of frequencies.
 Where,
 R = Radius of a cell
 N = Number of cells in a given cluster
-</article>
+</code>
